@@ -1,0 +1,32 @@
+h2{
+    color:salmon;
+    text-align: center;
+    margin-left: -34px;
+    padding:2% ;
+    letter-spacing: 1px;
+    font-size: 2cm;
+    border: 1px double black;
+    background-image:url('../images/img2.jpg') ;
+}
+.Links
+{
+    padding: 2%;
+    column-gap: 33px;
+    margin:0.4cm auto;
+    border:1px dotted black;
+    background-image:url('../images/img4.jpg') ;
+    font-size: 24px;
+    word-spacing: 1px;
+    -ms-text-kashida-space: 45%;
+    letter-spacing: 1px;
+    font-display: inherit;
+}
+h3{
+    text-align: center;
+    border:1px dotted blue;
+    background-image:url('../images/img4.jpg') ;
+}
+.add{
+    border:1px dotted black;
+    padding:14px;
+}
