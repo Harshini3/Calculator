@@ -1,0 +1,20 @@
+
+
+@media screen and (max-width: 2000px){
+    h1{
+        text-align: center;
+        font-size: 1.7cm;
+        font-family: cursive;
+            font-variant: small-caps;
+   
+    }  
+}
+
+.main
+{
+    background-image: url(../src/image/cal.jpg);
+
+}
+p{
+    font-family: cursive;
+}
